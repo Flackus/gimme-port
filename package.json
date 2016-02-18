@@ -1,0 +1,24 @@
+{
+  "name": "gimme-port",
+  "version": "0.0.0",
+  "description": "Super-small node.js utility to find unused port",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flackus/gimme-port.git"
+  },
+  "keywords": [
+    "find",
+    "unused",
+    "port"
+  ],
+  "author": "Alexey Rybakov <alexrybakov@yandex.ru> (https://github.com/flackus)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Flackus/gimme-port/issues"
+  },
+  "homepage": "https://github.com/Flackus/gimme-port#readme"
+}
