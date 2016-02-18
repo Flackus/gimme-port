@@ -1,6 +1,6 @@
 {
   "name": "gimme-port",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Super-small node.js utility to find unused port",
   "bin": {
     "gimme-port": "./bin/gimme-port"
